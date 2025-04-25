@@ -19,7 +19,7 @@
 ![Email](https://img.icons8.com/color/16/gmail-new.png)  2750149462@qq.com<br>
 ![Telegram](https://img.icons8.com/color/16/telegram-app--v1.png)  https://t.me/luckfezx<br>
 
-# ![image](https://github.com/user-attachments/assets/a8c287cc-30e5-4f49-a5a1-974d979dcccb)声明
+#<img src=https://github.com/user-attachments/assets/a8c287cc-30e5-4f49-a5a1-974d979dcccb, width=10,height=10> 声明
 
 作者声明：没有在任何平台进行代码售卖，请谨慎鉴别，上当受骗作者一律不负责
 本项目仅供学习交流，严禁用于任何商业和非法用途，非本人使用而产生的纠纷与一切后果均与本人无关。
