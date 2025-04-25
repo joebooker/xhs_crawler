@@ -15,6 +15,6 @@
 
 # 售后咨询
 
-[![WeChat](https://img.icons8.com/color/24/weixing.png)]zx_luckfe <br>
-![Email](https://img.icons8.com/color/24/gmail-new.png)2750149462@qq.com<br>
-![Telegram](https://img.icons8.com/color/24/telegram-app--v1.png)https://t.me/luckfezx<br>
+![WeChat](https://img.icons8.com/color/12/weixing.png)zx_luckfe <br>
+![Email](https://img.icons8.com/color/12/gmail-new.png)2750149462@qq.com<br>
+![Telegram](https://img.icons8.com/color/12/telegram-app--v1.png)https://t.me/luckfezx<br>
