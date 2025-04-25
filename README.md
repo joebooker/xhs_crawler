@@ -1,4 +1,4 @@
-![XHS](img/rednote_icon1.png)
+                                                                                            ![XHS](img/rednote_icon1.png)
 # xhs_crawler
 小红书小红书（XiaoHongShu、RedNote）爬虫，小红书数据挖掘，数据分析，小红书商业模式，小红书营销方案
 
